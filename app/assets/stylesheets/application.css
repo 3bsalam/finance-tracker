@@ -13,7 +13,7 @@
  *= require_tree .
  *= require_self
  */
-.result-block{
+.results-block{
     display: inline-block;
 }
 .no-padding{
